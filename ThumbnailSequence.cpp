@@ -1553,7 +1553,7 @@ QRectF
 ThumbnailSequence::CompositeItem::boundingRect() const
 {
 	QRectF rect(QGraphicsItemGroup::boundingRect());
-	rect.adjust(-100, -5, 100, 3);
+	rect.adjust(-10, -5, 10, 3);// u235: reduce large thumbinal margin 
 	return rect;
 }
 
