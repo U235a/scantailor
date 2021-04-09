@@ -1,6 +1,6 @@
 # Scan Tailor - [scantailor.org](http://scantailor.org/)
 
-![ScanTailor logo from scantailor.org](http://scantailor.org/assets/logo_h300-fs8.png) 
+![ScanTailor logo from scantailor.org](https://raw.githubusercontent.com/U235a/scantailor/master/resources/win32/icon.ico) 
 
 
 ## About ##
